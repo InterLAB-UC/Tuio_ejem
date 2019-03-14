@@ -35,6 +35,7 @@ void draw(){
      la ameba con ID 0, 1 o n, cuando escribamos una condicion donde suceda cierta cosa si aparece
      se ejecutara, mientras no
      */
+     
      //Si ameba ID es igual a 0
       if(tobj.getSymbolID() == 0){
        fill(0);
